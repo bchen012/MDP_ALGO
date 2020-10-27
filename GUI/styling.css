@@ -1,0 +1,75 @@
+.button {
+  border: none;
+  color: rgb(2, 0, 0);
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0 auto;
+  cursor: pointer;
+  position: relative;
+  background: black;
+}
+
+input[type="text"] {
+	background-color: #fff;
+	border-radius: 2px;
+	padding: 0px 0px 0px 10px;
+	width: 60%;
+	height: 30px;
+	margin: 0px;
+	border: none;
+	font-weight: bold;
+}
+#buttongrp{
+    display:flex;
+    margin:0 auto;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    width:100%;
+}
+
+
+
+#inputarea{
+    margin-top: 0px;
+    float: left;
+    width: 30%;
+}
+
+textarea {
+	background-color: #fff;
+	border-radius: 2px;
+	padding: 0px 0px 0px 10px;
+	width: 60%;
+	height: 300px;
+	margin: 0px;
+	border: none;
+	font-weight: bold;
+}
+#arena{
+    float: right;
+    width: 450px;
+  }
+
+br{
+    margin-top: 20px;
+}
+
+body{
+    padding: 20px;
+    background: rgb(140, 152, 175);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#display{
+    font-weight: bold;
+	padding:10px 40px; 
+	width:300px;
+    border-radius:15px;
+    margin:0px;
+    background: black
+    color: whitesmoke;
+}

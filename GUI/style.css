@@ -1,0 +1,19 @@
+#picture{
+    margin-left: auto; 
+    margin-right: auto;
+    padding-right: auto;
+    padding-left: auto;
+}
+
+#scream{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+#myCanvas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
